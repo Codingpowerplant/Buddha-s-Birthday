@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial, sans-serif';
+    background-image: url("https://www.thepranichealers.com/images/pages/buddha-and-group-of-five-companions.jpg");
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    background-repeat: no-repeat;
+  }
+  
+  header {
+    background-color: #efa12c;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #ffe0b2;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
